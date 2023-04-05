@@ -1,4 +1,4 @@
-5707
+5716
 93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\parcel\lib133251035612352160 1
 80C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\images133250433398601211 1
 158C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\main.js133251035613012309 0
@@ -20,7 +20,7 @@
 114C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\source-map\lib\binary-search.js133247744836193540 0
 136C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@babel\helper-validator-identifier\lib\keyword.js.map133247744836389552 0
 146C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gmenumodel.h133117882010000000 0
-82C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\package.json133251316579977545 0
+82C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\package.json133251317590652778 0
 121C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\caniuse-lite\dist\unpacker\features.js133247744841686702 0
 126C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133247744843008183 0
 101C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\plugin\src133247744857218850 1
@@ -36,7 +36,7 @@
 113C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@jridgewell\source-map\LICENSE133247744832518665 0
 107C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\to-regex-range\README.md133247744834575708 0
 93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\source-map133247744837271897 1
-74C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist133251316955429105 1
+74C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist133251325950702892 1
 134C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133247744837787205 0
 80C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\.gitignore133250442443185742 0
 82C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules133251035628402869 1
@@ -49,7 +49,7 @@
 127C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\caniuse-lite\data\features\css3-boxsizing.js133247744841107873 0
 95C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\color-string133250435232173439 1
 134C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\main-global\package.json133247744878948953 0
-84C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\index.html133251293748978510 0
+84C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\index.html133251325732700799 0
 133C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133247744879234758 0
 102C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\picocolors\types.ts133247744835787680 0
 104C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\readdirp\package.json133250431826972064 0
@@ -153,7 +153,7 @@
 140C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133247744846837816 0
 125C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\node-gyp-build-optional-packages\README.md133247744836213547 0
 108C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\cosmiconfig\dist\index.js133247744836560301 0
-89C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\scripts\main.js133251315340699423 0
+89C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\scripts\main.js133251318775821576 0
 90C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\src\images\ui-ux.png133143308920000000 0
 136C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133247744839262818 0
 120C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\csso\lib\restructure\prepare\index.js133247744838280292 0
@@ -1095,7 +1095,7 @@
 117C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\svgo\plugins\removeRasterImages.js133247744838950923 0
 109C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\react-refresh\package.json133247744836802048 0
 112C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\v8-compile-cache\package.json133247744861856584 0
-92C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.f75de5e1.js133251316955364308 0
+92C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.f75de5e1.js133251325950612869 0
 94C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\tar-fs\test133250435232672460 1
 99C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\get-port\license133247744866700718 0
 130C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\csso\lib\restructure\prepare\processSelector.js133247744838444636 0
@@ -1138,7 +1138,7 @@
 142C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133247744837661983 0
 111C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\packager-raw\LICENSE133251035612152125 0
 120C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\utility-types\dist\utility-types.d.ts133247744837711992 0
-85C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.html133251316955244582 0
+85C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.html133251325950672886 0
 115C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\tar-fs\test\fixtures\invalid.tar133250435232722902 0
 96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\svgo\bin\svgo133247744833044796 0
 118C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\utility-types\dist\utility-types.js133247744836223551 0
@@ -1600,7 +1600,7 @@
 131C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133247744834595708 0
 104C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\base-x\src\index.d.ts133247744836494501 0
 141C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gtask.h133117882010000000 0
-96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.f75de5e1.js.map133251316955409118 0
+96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.f75de5e1.js.map133251325950692894 0
 107C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\svgo\lib\svgo\jsAPI.d.ts133247744839528892 0
 105C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\svgo\lib\svgo\jsAPI.js133247744838038269 0
 153C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE133247744868078473 0
@@ -2106,6 +2106,7 @@
 148C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlunicode.h133117882010000000 0
 114C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\caniuse-lite\data\regions\GW.js133247744842236566 0
 148C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlversion.h133117882010000000 0
+97C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.28ed3349.css.map133251317685370813 0
 147C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlwriter.h133117882010000000 0
 101C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\entities\readme.md133247744837917431 0
 143C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xpath.h133117882010000000 0
@@ -5102,6 +5103,7 @@
 127C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133247744847221509 0
 132C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133247744846997343 0
 117C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\runtime-service-worker\lib133251035612202124 1
+93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.28ed3349.css133251317685331701 0
 121C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\runtime-service-worker\LICENSE133251035612152125 0
 126C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\runtime-service-worker\package.json133251035612382193 0
 141C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133251035612322161 0
@@ -5435,6 +5437,7 @@
 119C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\bundle.js133247744877758051 0
 124C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\common-targets133247744878813664 1
 126C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\config-malformed133247744877515692 1
+92C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\data.b5acb70a.png133251325950662875 0
 130C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\config-node-pipeline133247744877525710 1
 133C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133247744877535701 1
 133C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133247744878823666 1
@@ -5468,7 +5471,7 @@
 153C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133247744878908346 0
 146C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133247744878898348 0
 137C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133247744878036265 1
-95C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\backend.3c327b9e.png133250446977446699 0
+95C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\backend.3c327b9e.png133251325950632887 0
 139C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133247744878878345 0
 145C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133247744878844081 0
 147C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133247744878833674 0
@@ -5698,11 +5701,17 @@
 94C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\.bin\terser133247744879244875 0
 98C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\.bin\terser.cmd133247744879244875 0
 98C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\node_modules\.bin\terser.ps1133247744879244875 0
+97C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\ebac_logo.0501c0d5.svg133251317685331701 0
 97C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\ebac_logo.a50a4e19.svg133251316955339097 0
 104C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\Evento Landi Page.59712999.js133251316955379083 0
+96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\frontend.cb233274.png133251317681737162 0
 96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\frontend.ffcc0254.png133251316955164536 0
+93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\fundo.45626ea2.png133251317684639101 0
 93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\fundo.a62a0635.png133251316955154400 0
-82C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts133251316955429105 1
+92C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.c6882fd1.js133251317685331701 0
+96C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\index.c6882fd1.js.map133251317685370813 0
+82C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts133251325950702892 1
+93C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\ui-ux.eb833062.png133251325950612869 0
 94C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\styles\main.css.map133251316955409118 0
-90C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts\main.js133251316955389099 0
-94C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts\main.js.map133251316955429105 0
+90C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts\main.js133251325950672886 0
+94C:\Users\rssan\Documents\EBAC\40. Landi Page Evento\Evento Landi Page\dist\scripts\main.js.map133251325950692894 0
